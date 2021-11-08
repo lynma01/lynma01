@@ -12,7 +12,8 @@ Vanquisher of MS Access databases, and an advocate for tech's role in humanitari
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![cassandra](https://img.shields.io/badge/Apache_Cassandra-0089D6?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![spark](https://img.shields.io/badge/Spark-4285F4?style=for-the-badge&logo=apache-spark&logoColor=white)
+![spark](https://img.shields.io/badge/PySpark-4285F4?style=for-the-badge&logo=apache-spark&logoColor=white)
+![airflow](https://img.shields.io/badge/Apache_Airflow-F59812?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ## Background:
 Self-taught and project-driven (when I'm not being driven by my projects), started with Mozilla's Web Dev course before realizing my passion for all things data-infrastructure.
