@@ -1,16 +1,28 @@
-### Hi there 👋
+## An aspiring data-engineer with emergency-management experience 
+Vanquisher of MS Access databases, and an advocate for tech's role in humanitarian investment projects and public policy. 
 
-<!--
-**lynma01/lynma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lynma01@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-lyn-6a4b8690/)
 
-Here are some ideas to get you started:
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![cassandra](https://img.shields.io/badge/Apache_Cassandra-0089D6?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![spark](https://img.shields.io/badge/Spark-4285F4?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+## Background:
+Self-taught and project-driven (when I'm not being driven by my projects), started with Mozilla's Web Dev course before realizing my passion for all things data-infrastructure.
+
+### 📚 My reading list:
+1. [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](https://www.amazon.com/Utopia-Rules-Technology-Stupidity-Bureaucracy/dp/1612195180)
+    - In the same vein as the proverb, [No Mercy, No Malice](https://www.profgalloway.com/), the obstacles of my day-job aren't purposeful acts of data-sabotage, rather, it's businesses following the path-of-least-resistance for sharing data, and clients being unable to translate their contractual-requirements into unit tests. I think this is the front-line of public-sector tech.
+
+2. [Net Assessment and Military Strategy: Retrospective and Prospective Essays](https://www.amazon.com/Assessment-Military-Strategy-Retrospective-Communications/dp/1621965392)
+    - It's one thing to do a cost-benefit analysis using analytics, it's another thing entirely to turn them into a rigorous strategy. Flavors of [Operations Research](https://www.informs.org/Explore/Operations-Research-Analytics) mixed with promissing notes of humanitarian operations. The opposite of the corporate strategy self-help book.
+
+3. [The Geography of Risk: Epic Storms, Rising Seas, and the Cost of America's Coasts](https://www.amazon.com/Geography-Risk-Storms-Rising-Americas/dp/0374160805)
+    -  A book about infrastructure systems and the political and climatic environment undermining them. I believe data-engineers will play the key role in solving the systemic issues described within. The book builds upon many of the same themes detailed in federal process audits hammering: [opaque reporting requirements for disaster survivors](https://www.gao.gov/products/gao-20-503), [the responder-workforce's skills mismatch](https://www.gao.gov/products/gao-20-360), [inaccurate hazard maps](https://www.gao.gov/products/gao-22-104079), [and the national flood-insurance program's financial insolvency](https://www.gao.gov/products/gao-20-508). 
