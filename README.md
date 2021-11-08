@@ -15,7 +15,7 @@
 ![airflow](https://img.shields.io/badge/Apache_Airflow-F59812?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ## Background:
-Self-taught and project-driven (when I'm not being driven by my projects), started with Mozilla's Web Dev course before realizing my passion for all things data-infrastructure.
+Self-taught and project-driven, started with Mozilla's Web Dev course before realizing my passion for all things data-infrastructure.
 
 ### 📚 My reading list:
 1. [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](https://www.amazon.com/Utopia-Rules-Technology-Stupidity-Bureaucracy/dp/1612195180)
