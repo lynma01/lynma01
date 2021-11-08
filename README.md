@@ -1,4 +1,4 @@
-## An aspiring data-engineer with emergency-management experience 
+## An aspiring data-engineer with BI/emergency-management experience 
 Vanquisher of MS Access databases, and an advocate for tech's role in humanitarian investment projects and public policy. 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lynma01@gmail.com)
