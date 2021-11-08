@@ -1,5 +1,5 @@
 ## An aspiring data-engineer with BI/emergency-management experience 
-Vanquisher of MS Access databases, and an advocate for tech's role in humanitarian investment projects and public policy. 
+Vanquisher of zombie MS Access databases, and an advocate for tech's role in humanitarian investment projects and public policy. 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lynma01@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-lyn-6a4b8690/)
