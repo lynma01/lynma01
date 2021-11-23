@@ -19,7 +19,7 @@ Self-taught and project-driven, started with Mozilla's Web Dev course before rea
 
 ### 📚 My reading list:
 1. [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](https://www.amazon.com/Utopia-Rules-Technology-Stupidity-Bureaucracy/dp/1612195180)
-    - In the same vein as the proverb, [No Mercy, No Malice](https://www.profgalloway.com/), the obstacles of my day-job aren't purposeful acts of data-sabotage, rather, it's businesses following the path-of-least-resistance for sharing data, and clients being unable to translate their contractual-requirements into unit tests. I think this is the front-line of public-sector tech.
+    - In the same vein as the proverb, [No Mercy, No Malice](https://www.profgalloway.com/), the obstacles of my day-job aren't purposeful acts of data-sabotage, rather, it's businesses following the path-of-least-resistance for sharing data, and clients being unable to translate their contractual-requirements into unit tests. The front-line of public-sector tech, IMO.
 
 2. [Net Assessment and Military Strategy: Retrospective and Prospective Essays](https://www.amazon.com/Assessment-Military-Strategy-Retrospective-Communications/dp/1621965392)
     - It's one thing to do a cost-benefit analysis using analytics, it's another thing entirely to turn them into a rigorous strategy. Flavors of [Operations Research](https://www.informs.org/Explore/Operations-Research-Analytics), "competitive advantage" founded-thinking, mixed with promissing notes of humanitarian applications. The opposite of the corporate strategy self-help book.
