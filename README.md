@@ -19,7 +19,7 @@
 - SnowFlake Dataset Exploration:
 [snowflake_SQL](https://github.com/lynma01/snowflake_SQL)
 
-- Python Data Analyst Assessment:
+- Python Web-App Funnel Analysis:
 [data analyst assessment](https://github.com/lynma01/data-analyst-assessment/blob/main/clair_analysis.ipynb)
 
 ## 📚Booklist:
