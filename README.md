@@ -19,10 +19,7 @@
 ### SnowFlake Dataset Exploration:
 [snowflake_SQL](https://github.com/lynma01/snowflake_SQL)
 
-## Background:
-Self-taught and project-driven, started with Mozilla's Web Dev course before realizing my passion for all things data-infrastructure.
-
-### 📚:
+### 📚Booklist:
 1. [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](https://www.amazon.com/Utopia-Rules-Technology-Stupidity-Bureaucracy/dp/1612195180)
     - In the same vein as, [No Mercy, No Malice](https://www.profgalloway.com/), breaches of B2G financial compliance rules usually aren't premeditated or malicious, rather, it's businesses following the path-of-least-resistance for sharing data. It's really funny, and got me thinking a lot about public-sector tech.
 
