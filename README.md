@@ -16,10 +16,10 @@
 ![airflow](https://img.shields.io/badge/Apache_Airflow-F59812?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ## Repositories
-### SnowFlake Dataset Exploration:
+- SnowFlake Dataset Exploration:
 [snowflake_SQL](https://github.com/lynma01/snowflake_SQL)
 
-### Python Data Analyst Assessment
+- Python Data Analyst Assessment:
 [data analyst assessment](https://github.com/lynma01/data-analyst-assessment/blob/main/clair_analysis.ipynb)
 
 ### 📚Booklist:
