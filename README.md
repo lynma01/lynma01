@@ -15,6 +15,11 @@
 ![spark](https://img.shields.io/badge/PySpark-4285F4?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![airflow](https://img.shields.io/badge/Apache_Airflow-F59812?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
+### Repositories
+
+#### SQL - SnowFlake Dataset Exploration:
+[snowflake_SQL](https://github.com/lynma01/snowflake_SQL)
+
 ## Background:
 Self-taught and project-driven, started with Mozilla's Web Dev course before realizing my passion for all things data-infrastructure.
 
