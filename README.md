@@ -16,7 +16,7 @@
 ![airflow](https://img.shields.io/badge/Apache_Airflow-F59812?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ## Repositories
-### SQL - SnowFlake Dataset Exploration:
+### SnowFlake Dataset Exploration:
 [snowflake_SQL](https://github.com/lynma01/snowflake_SQL)
 
 ## Background:
