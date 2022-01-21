@@ -22,7 +22,7 @@
 - Python Data Analyst Assessment:
 [data analyst assessment](https://github.com/lynma01/data-analyst-assessment/blob/main/clair_analysis.ipynb)
 
-### 📚Booklist:
+## 📚Booklist:
 1. [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy](https://www.amazon.com/Utopia-Rules-Technology-Stupidity-Bureaucracy/dp/1612195180)
     - In the same vein as, [No Mercy, No Malice](https://www.profgalloway.com/), breaches of B2G financial compliance rules usually aren't premeditated or malicious, rather, it's businesses following the path-of-least-resistance for sharing data. It's really funny, and got me thinking a lot about public-sector tech.
 
